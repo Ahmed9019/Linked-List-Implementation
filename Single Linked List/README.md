@@ -1,6 +1,6 @@
-# Double Linked List
+# Single linked list
 
-Create a class DoubleLinkdList that implements ILinkedList interface.
+Provide a class SingleLinkedList that implements the interface ILinkedList. 
 
 ## Input Format
 First line contains a comma-separated list of the linkedlist elements.<br />
