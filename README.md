@@ -1,3 +1,3 @@
 # linked list Implementation
 
-It is an implementaion of single linked list and double linked list. 
+It is an implementaion for single linked list and double linked list. 
